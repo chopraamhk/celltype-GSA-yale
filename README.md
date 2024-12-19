@@ -13,7 +13,8 @@ CARseq, TOAST, CeDAR, CellDMC, LRCDE, TCA, csSAM, HIRE, and DESeq2, all of which
 mremaR - https://github.com/osedo/mremaR
 
 
-
-
+If you have any questions, you can email us:
+m.chopra1@universityofgalway.ie / d.oshea20@universityofgalway.ie
+(Dónal O'Shea wrote mremaR)
 
 
