@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/db0b0479-0a3e-466d-9c47-a29cfddd22cf)
 
+- In the above figure, we have considered an example of blood RNAseq; therefore, the cellular proportion of blood will be considered. 
 - Deconvolution algorithms providing cellular proportions per sample - 
 CIBERSORTx, Iced-T, Immunedeconv, MuSiC, xCell, Blender, dTangle, DeconRNAseq etc. 
 https://liulab-dfci.github.io/RIMA/Infiltration.html#cibersort
