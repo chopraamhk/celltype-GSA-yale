@@ -14,7 +14,6 @@ mremaR - https://github.com/osedo/mremaR
 
 
 If you have any questions, you can email us:
-m.chopra1@universityofgalway.ie / d.oshea20@universityofgalway.ie
-(Dónal O'Shea wrote mremaR)
+m.chopra1@universityofgalway.ie / d.oshea20@universityofgalway.ie (Dónal O'Shea wrote mremaR)
 
 
